@@ -50,4 +50,4 @@ sudo python3 keylogger.py
 
 ## Build with pyinstaller
 
-Use `pyinstaller --onefile --windowed keylogger.py` to create an executable
+Use `pyinstaller --onefile --noconsole keylogger.py` to create an executable
